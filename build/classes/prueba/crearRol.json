@@ -1,6 +1,0 @@
-{
-"idRol"=-1,
-"descripcion"= "Director",
-"operaciones"=[
-"MOSTRAR_USUARIO","EDITAR_USUARIO","EDITAR_ITEME"]
-}
