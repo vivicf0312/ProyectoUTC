@@ -1,0 +1,16 @@
+{
+"idItem"=17,
+"tomo"=1,
+"folio"=3,
+"asiento"=4,
+"idEtiqueta"=785,
+"descripcion"="silla",
+"marca"="patito",
+"modelo"="patito",
+"serie"="patito",
+"condicion"="mala",
+"idUbicacion"=30,
+"adquisicion"="comprado",
+"observaciones"="costo 45";
+}
+

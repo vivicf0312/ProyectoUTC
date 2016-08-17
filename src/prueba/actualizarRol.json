@@ -1,0 +1,6 @@
+{
+"idRol"=17,
+"descripcion"= "Asistente",
+"operaciones"=[
+"add","view all"]
+}
