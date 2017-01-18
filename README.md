@@ -1,6 +1,8 @@
 # ProyectoUTC
 Final Project for University
-•	Inventory Management System for Villa Nueva School
+
+Inventory Management System for Villa Nueva School
+
 A multi-tier distributed management system to keep track of all the resources of the school. 
 It provides role based access to different screens and operations.
 A complete history of all the users and operations is maintained. 
